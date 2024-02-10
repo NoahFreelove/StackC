@@ -1,0 +1,3 @@
+C:/Users/noahf/Desktop/PersonalProjects/StackC/cmake-build-debug/CMakeFiles/StackC.dir
+C:/Users/noahf/Desktop/PersonalProjects/StackC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/noahf/Desktop/PersonalProjects/StackC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
